@@ -78,6 +78,7 @@ const ToDoList = () => {
 				<div className="col-12 text-center">
 					<h1>Todos List</h1>
 				</div>
+				<h1>Ya arregle el problema, espero aprendas de el</h1>
 				<div className="col-12 col-md-6">
 					<input
 						type="text"
